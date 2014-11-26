@@ -14,11 +14,35 @@ Tutsplus 上《50 Filters of WordPress 》系列文章的中文翻译
 
 [50 Filters of WordPress: An Introduction to Filters](http://code.tutsplus.com/tutorials/50-filters-of-wordpress-an-introduction-to-filters--cms-21294)
 
-中文译文正在翻译中
+[WordPress 中的50个过滤器(1)：何为过滤器（Filters）？](https://github.com/Jeff2Ma/50-Filters-of-WordPress-zh_CN/blob/master/1.An-Introduction-to-Filters-An%20Introduction-to-Filters-zh_CN.md)
+
+===========
 
 [50 Filters of WordPress: The First 10 Filters](http://code.tutsplus.com/tutorials/50-filters-of-wordpress-the-first-10-filters--cms-21295)
 
-中文译文正在翻译中
+[WordPress 中的50个过滤器(2)：先介绍10个过滤器](https://github.com/Jeff2Ma/50-Filters-of-WordPress-zh_CN/blob/master/2.The%20First%2010%20Filters.md)
+
+==========
+[50 Filters of WordPress: Filters 11-20](http://code.tutsplus.com/tutorials/50-filters-of-wordpress-filters-11-20--cms-21296)
+
+[WordPress 中的50个过滤器(3)：第11-20个过滤器](https://github.com/Jeff2Ma/50-Filters-of-WordPress-zh_CN/blob/master/3.Filters%2011-20.md)
 
 
+==========
 
+[50 Filters of WordPress: Filters 21-30](http://code.tutsplus.com/tutorials/50-filters-of-wordpress-filters-21-30--cms-21298)
+
+[WordPress 中的50个过滤器(4)：第21-30个过滤器](https://github.com/Jeff2Ma/50-Filters-of-WordPress-zh_CN/blob/master/4.Filters%2021-30.md)
+
+==========
+
+[50 Filters of WordPress: Filters 31-40](https://github.com/Jeff2Ma/50-Filters-of-WordPress-zh_CN/blob/master/5.Filters%2031-40.md)
+
+[WordPress 中的50个过滤器(4)：第31-40个过滤器](https://github.com/Jeff2Ma/50-Filters-of-WordPress-zh_CN/blob/master/5.Filters%2031-40.md)
+
+
+==========
+
+[50 Filters of WordPress: Filters 41-50](https://github.com/Jeff2Ma/50-Filters-of-WordPress-zh_CN/blob/master/6.Filters%2041-50.md)
+
+[WordPress 中的50个过滤器(4)：第41-50个过滤器](https://github.com/Jeff2Ma/50-Filters-of-WordPress-zh_CN/blob/master/6.Filters%2041-50.md)
